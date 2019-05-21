@@ -1,2 +1,2 @@
-# IPLdataanalysis
-THIS ASSIGNMENT SHOWS DEEP ANALYSIS OF IPL DATA TILL 2017
+# assignmentdata1
+data analysis using pandas,numpy , matplotlib
